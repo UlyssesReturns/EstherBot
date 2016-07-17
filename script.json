@@ -1,6 +1,6 @@
 {
-    "BOT": "Hello there! So glad you contacted me\nI’m the personal bot of Todd, a Product Manager from New York City.\n![Todd](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/02a/017/2a9e213.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set Toddbot up! Do you want to tell Todd that you're talking to his bot? %[Tell her](postback:twitter)",
+    "BOT": "Hello there! So glad you contacted me\nI’m the personal bot of Todd, a Product Manager from New York City.\n![Todd](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/02a/017/2a9e213.jpg)\nWant to know more about bots or learn about Todd? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Todd](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you set Toddbot up! Do you want to tell Todd that you're talking with his bot? %[Tell her](postback:twitter)",
     "TELL HER": "Tweet @ Manhattandad so he knows you're setting a bot like his.)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "ok",
